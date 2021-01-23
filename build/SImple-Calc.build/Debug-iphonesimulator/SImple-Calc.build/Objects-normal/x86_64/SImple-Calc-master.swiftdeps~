@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "41d871584f732ca687e0d5999918a8d7"
+build_time: [1611366679, 572437000]
+inputs:
+  "/Users/naomigallupe/Documents/apps/SImple-Calc/SImple-Calc/ViewController.swift": [1611366675, 818891001]
+  "/Users/naomigallupe/Documents/apps/SImple-Calc/SImple-Calc/AppDelegate.swift": [1611105391, 48607532]
+  "/Users/naomigallupe/Documents/apps/SImple-Calc/SImple-Calc/SceneDelegate.swift": [1611105391, 61299121]
